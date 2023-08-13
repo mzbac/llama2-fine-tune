@@ -1,0 +1,7 @@
+[
+    {
+      "input": "how to write function in python",
+      "chosen": "How to write a function in Python?",
+      "rejected": "def function_name(parameters):\n  # code here"
+    }
+  ]

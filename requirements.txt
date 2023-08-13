@@ -1,0 +1,9 @@
+transformers
+trl
+peft
+accelerate
+datasets
+bitsandbytes
+scipy
+sentencepiece
+gradio
