@@ -22,6 +22,9 @@ that match your environment. Please note that you may need to restart your runti
 ```sh
 pip install protobuf
 ```
+## Hardware requirement
+
+7b and 13b models are able to be SFT and DPO under a single 4090. The 7b model should be able to fit in one 4080 for DPO depending on your LoRa config.
 
 ## Fine-tune the model via SFT trainer
 
